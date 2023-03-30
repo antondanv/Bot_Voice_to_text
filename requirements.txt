@@ -1,5 +1,0 @@
-python-telegram-bot==13.7
-pydub
-SpeechRecognition
-
-telegram~=0.0.1
